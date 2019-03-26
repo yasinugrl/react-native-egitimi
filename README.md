@@ -1,6 +1,6 @@
 # React Native Eğitimi (Syllabus - İzlence)
 
-![image](https://www.inovex.de/blog/wp-content/uploads/2018/03/react-native.png)
+![image](https://cdn-images-1.medium.com/max/1200/1*ub1DguhAtkCLvhUGuVGr6w.png)
 
 ## React Native Nedir
 
@@ -92,7 +92,7 @@ Eğitim Temelde 5 ana başlık altında işlenecek ve  bittiğinde bütün bu ko
  * State ve Props
  * Custom Component Geliştirme
  
- ### React Native Navigation Redux Yapısı
+ ### React Native Navigation ve Redux Yapısı
  
  * React Native Navigation Yapısı
     * React Native Router Flux Nedir? Kurulumu.
