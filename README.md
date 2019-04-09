@@ -40,7 +40,7 @@ Eğitim Temelde 5 ana başlık altında işlenecek ve  bittiğinde bütün bu ko
   * React Native’in Temelleri
   * React Native Navigations ve Redux Yapısı
   * Firebase (Auth, Database, Push Notification, Crashlytics, Admob)
-  * Web Api (Get, Post, vs)
+  * Web Service - Api Request, Data Pars
   * Responsive Design
 
 
@@ -147,7 +147,7 @@ Eğitim Temelde 5 ana başlık altında işlenecek ve  bittiğinde bütün bu ko
       * Rewarded
 
 
- ### Web Service - Api (Get, Post, vs
+ ### Web Service - Api Request, Data Pars
  
 * Web Api Nedir? Neden önemlidir?
 * Web Api Kullanım alanları
