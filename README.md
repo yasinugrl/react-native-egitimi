@@ -16,7 +16,6 @@ Bu program ile birlikte sıfırdan ileri seviye React Native ile IOS, Android Uy
   * Temel düzeyde yazılım algoritması bilgisine sahip olmak.
   * Temel düzeyde HTML, CSS, JavaScript bilgisine sahip olmak.
   * Mobile Uygulama geliştirmeye istekli olmak.
-  * MAC OS (işletim sistemi) sahip olmak
 
 
 ### Olsa iyi olur
@@ -55,6 +54,7 @@ Eğitim Temelde 5 ana başlık altında işlenecek ve  bittiğinde bütün bu ko
  * CMD üzerinden temel git kullanımı
  * SourceTree üzerinden temel git kullanımı
  * Gitignore nedir?
+ * Branch, Pull Request?
  * Commit, Push, Pull nedir?
 
  
@@ -62,9 +62,13 @@ Eğitim Temelde 5 ana başlık altında işlenecek ve  bittiğinde bütün bu ko
  
  * React Native Nedir? Neden React Native?
  * React Native Github Sayfası
+ * Expo CLI vs React Native CLI
+ * Expo CLI kurulumu ve proje oluşturulması
+ * Reac Native CLI kurulumu ve proje oluşturulması
  * Kurulumları yapacağımız terminal hakkında
  * React Native Dependencies(Bağımlılıklar, Gerekli Kurulumlar)
  * React Native proje init etme
+ * React Native'in çalışma mantığı nedir?
  * Proje dizin dosyalarını inceleme
  * Xcode idesi tanıtımı
  * Projeyi IOS emulatör üzerinde run etme
@@ -76,20 +80,21 @@ Eğitim Temelde 5 ana başlık altında işlenecek ve  bittiğinde bütün bu ko
    * Apple Certificates(Sertifikalar)
    * Apple test hesabı ekleme
  * Android Studio idesi tanıtımı
- * Genymotion Emulator
- * Projeyi Genymotion Emulator üzerinde run etme 
+ * Projeyi Android emulatör üzerinde run etme
  * Projeyi Android cihazlarımızda run etme
  * VSCode idesi tanıtımı
  * Eslint Nedir? Eslint Kurulumu?
  * React Native Development Tool
  * React Native Application Lifecycle(Uygulama yaşam döngüsü)
  * Proje nasıl loglanır?
+ * React Hooks nedir?
+ * React Hooks Lifecycle methodları
+ * Class ve Method farklılığı
+ * State ve Props
  * React Native Componentler
    * View, Text, ScrollView, Image vs.
  * React Native Style
    * Flex yapısı hakkında
- * Class ve Method farklılığı
- * State ve Props
  * Custom Component Geliştirme
  
  ### React Native Navigation ve Redux Yapısı
@@ -113,8 +118,6 @@ Eğitim Temelde 5 ana başlık altında işlenecek ve  bittiğinde bütün bu ko
  * Reducers
  * Connect Component
  * mapStateToProps
-
- 
  
  
  ### Firebase (Auth, Database, Push Notification, Crashlytics, Admob)
@@ -163,7 +166,7 @@ Eğitim Temelde 5 ana başlık altında işlenecek ve  bittiğinde bütün bu ko
 * Web api bağlı olan projelerde redux yapısının kurgulanması
 * Axios ile örnek web service üzerinden post işlemleri
 * Paging yapısı nedir? Paging yapısının kullanımı
-* Ders içerisinde geliştirilecek profesyonel projenin bir web servise ile entegre edilmesi
+* Ders içerisinde geliştirilecek projenin bir web servise ile entegre edilmesi
 
 
  ### Responsive Design
